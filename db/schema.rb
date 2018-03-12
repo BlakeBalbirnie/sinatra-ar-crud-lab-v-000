@@ -17,5 +17,5 @@ ActiveRecord::Schema.define(version: 20180312130715) do
     t.string "name"
     t.string "content"
   end
- 	 
+
  end	 end
