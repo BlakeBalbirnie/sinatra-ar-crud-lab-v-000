@@ -18,4 +18,4 @@ ActiveRecord::Schema.define(version: 20180312130715) do
     t.string "content"
   end
 
- end	 end
+end
